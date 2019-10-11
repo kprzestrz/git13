@@ -14,4 +14,7 @@ int main()
 	bool a;
 	first(x, a);
     std::cout << "Hello World!\n";
+	x *= 3;
+	int suma;
+	suma = x + x;
 }
