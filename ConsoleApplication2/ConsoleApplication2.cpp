@@ -19,4 +19,11 @@ int main()
 	std::cout << "chce do domu";
 
 	return 0;
+
+	x *= 3;
+	int suma;
+	suma = x + x;
+
+	std::cout << "cos sie zepsulo";
+
 }
