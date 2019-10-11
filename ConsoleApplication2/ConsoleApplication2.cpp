@@ -16,6 +16,7 @@ int main()
 	std::cout << a << std::endl;
     std::cout << "Hello World!\n";
 	int b = 10;
+	std::cout << "chce do domu";
 
 	return 0;
 }
