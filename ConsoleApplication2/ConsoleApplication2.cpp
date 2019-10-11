@@ -10,8 +10,12 @@ bool first(int x,bool a)
 
 int main()
 {
-	int x;
-	bool a;
+	int x=0;
+	bool a=true;
 	first(x, a);
+	std::cout << a << std::endl;
     std::cout << "Hello World!\n";
+	int b = 10;
+
+	return 0;
 }
