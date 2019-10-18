@@ -14,9 +14,8 @@ int main()
 	bool a=true;
 	first(x, a);
 	std::cout << a << std::endl;
-    std::cout << "Hello World!\n";
 	int b = 10;
-	std::cout << "chce do domu";
+	std::cout << "zyjemy w spoleczenstwie" endl;
 
 	return 0;
 
@@ -24,10 +23,6 @@ int main()
 	int suma;
 	suma = x + x;
 
-	std::cout << "cos sie zepsulo";
-	std::cout << "A tu cos dodalem";
 
-
-	std::cout << "A tu to wgl jeszcze cos dodalem zeby commit zrobic";
 
 }
