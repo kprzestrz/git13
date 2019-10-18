@@ -23,8 +23,5 @@ int main()
 	int suma;
 	suma = x + x;
 
-	std::cout << "cos sie zepsulo" endl;
-
-	std::cout <<"elo"
 
 }
