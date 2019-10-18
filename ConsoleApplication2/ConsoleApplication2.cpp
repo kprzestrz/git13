@@ -24,6 +24,10 @@ int main()
 	int suma;
 	suma = x + x;
 
-	std::cout << "cos sie zepsulo";
+	for (int i = 0; i < 10; i++)
+	{
+		std::cout << char(i) << std::endl;
+	}
+	std::cout<<"takie sobie znaczki od 1 do 10";
 
 }
