@@ -14,9 +14,8 @@ int main()
 	bool a=true;
 	first(x, a);
 	std::cout << a << std::endl;
-    std::cout << "Hello World!\n";
 	int b = 10;
-	std::cout << "chce do domu";
+	std::cout << "zyjemy w spoleczenstwie" endl;
 
 	return 0;
 
@@ -24,10 +23,5 @@ int main()
 	int suma;
 	suma = x + x;
 
-	for (int i = 0; i < 10; i++)
-	{
-		std::cout << char(i) << std::endl;
-	}
-	std::cout<<"takie sobie znaczki od 1 do 10";
 
 }
