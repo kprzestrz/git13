@@ -10,21 +10,7 @@ bool first(int x,bool a)
 
 int main()
 {
-	int x=0;
-	bool a=true;
-	first(x, a);
-	std::cout << a << std::endl;
-	int b = 10;
-	std::cout << "zyjemy w spoleczenstwie" endl;
-
-	return 0;
-
-	x *= 3;
-	int suma;
-	suma = x + x;
-
-	std::cout << "cos sie zepsulo" endl;
-
-	std::cout <<"elo"
-
+	cout << "wpisz cos prosze cie";
+	cin << a;
+	cout >> "zgaduje, ze wpisales " >> a;
 }
