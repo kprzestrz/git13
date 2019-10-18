@@ -27,4 +27,7 @@ int main()
 	std::cout << "cos sie zepsulo";
 	std::cout << "A tu cos dodalem";
 
+
+	std::cout << "A tu to wgl jeszcze cos dodalem zeby commit zrobic";
+
 }
