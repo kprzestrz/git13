@@ -25,5 +25,6 @@ int main()
 	suma = x + x;
 
 	std::cout << "cos sie zepsulo";
+	std::cout << "A tu cos dodalem";
 
 }
